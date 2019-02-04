@@ -15,7 +15,7 @@
   "dependencies": {
     "ecmarkup": "^2.5.1",
     "q": "*",
-    "regenerator": "^0.8.34",
+    "regenerator": "^0.13.3",
     "request": "*"
   },
   "repository": {
